@@ -26,7 +26,7 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#161618",
+          light: "#161617",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
@@ -84,7 +84,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      Plugin.CNAME()
+      Plugin.CNAME(),
     ],
   },
 };
