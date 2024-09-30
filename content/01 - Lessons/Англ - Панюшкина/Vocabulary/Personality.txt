@@ -1,0 +1,29 @@
+adventurous ; смелый, рискованный
+ambitious ; целеустремлённый
+assertive ; настойчивый
+bossy ; властный
+cautious ; осторожный
+creative ; креативный
+generous ; щедрый
+moody ; быстро сменяемое настроение
+greedy ; жадный 
+organized ; организованный
+quiet ; тихий
+reliable ; надёжный
+sensible ; рассудительный
+sensitive ; чувствительный
+sociable ; общительный
+talkative ; разговорчивый
+thoughtful ; вдумчивый
+arrogant ; высокомерный
+witty ; остроумный
+easy-going ; лёгок на подъём
+open-minded ; открытыве взгляды
+even-tempered ; уравновешенный
+hard-working ; трудолюбивый
+self-confident ; самоуверенный
+strong-willed ; волевой
+eloquence ; красноречивый
+eager ; жаждущий
+to overshadow ; затенить
+
